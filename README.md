@@ -56,6 +56,6 @@ Furthermore, Microsoft may be able to maximize ROI by recruiting one of the resp
 ├── LICENSE.md
 ├── README.md
 ├── movie_data_erd.jpeg (the ERD for the IMDb database file)
-├── project_notebook.ipynb
-└── presentation.pdf
+├── presentation.pdf
+└── project_notebook.ipynb
 ```
