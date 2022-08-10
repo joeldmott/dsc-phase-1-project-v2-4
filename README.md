@@ -47,6 +47,7 @@ While each of these genres average a positive ROI, the following three stand out
 Furthermore, Microsoft may be able to maximize ROI by recruiting one of the respective top ten ROI-earning directors listed next to each genre’s graph. 
 
 ### Repository Structure:
+```
 ├── zippedData
 │   ├── im.db (the IMDb database file with genre, release date, and director info)
 │   ├── tmdb.movies.csv.gz (the-numbers.com CSV with budget and ROI info)
@@ -57,3 +58,4 @@ Furthermore, Microsoft may be able to maximize ROI by recruiting one of the resp
 ├── movie_data_erd.jpeg (the ERD for the IMDb database file)
 ├── project_notebook.ipynb
 └── presentation.pdf
+```
