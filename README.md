@@ -27,7 +27,7 @@ Then I compiled more specific findings:
 1. when high-ROI films in a particular genre tend to be released
 2. which directors within that genre tend to make higher-ROI films
 
-### Visualizing Data:
+### Visualizing Data (click each graph to expand and see axis labels and legend):
 
 Preliminary genre findings are summarized in the following graph:
 * ![image](https://user-images.githubusercontent.com/51928528/183788794-52b2da22-708f-4c75-92c4-0e390e83ce54.png)
@@ -45,3 +45,15 @@ While each of these genres average a positive ROI, the following three stand out
 3. an action film released in May
 
 Furthermore, Microsoft may be able to maximize ROI by recruiting one of the respective top ten ROI-earning directors listed next to each genre’s graph. 
+
+### Repository Structure:
+├── zippedData
+│   ├── im.db (the IMDb database file with genre, release date, and director info)
+│   ├── tmdb.movies.csv.gz (the-numbers.com CSV with budget and ROI info)
+├── .canvas
+├── .gitignore
+├── LICENSE.md
+├── README.md
+├── movie_data_erd.jpeg (the ERD for the IMDb database file)
+├── project_notebook.ipynb
+└── presentation.pdf
