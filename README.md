@@ -1,6 +1,8 @@
 # Phase 1 Project - Joel Mott
 
-### The purpose of this project is to help Microsoft’s (fictional) emerging film studio optimize its return on investment (or ‘ROI’). After couching my analysis in Microsoft’s interests and explaining a little about my process steps, I relay three business recommendations regarding suggested genres, release dates, and directors.
+### Project Overview:
+
+The purpose of this project is to help Microsoft’s (fictional) emerging film studio optimize its return on investment (or ‘ROI’). After couching my analysis in Microsoft’s interests and explaining a little about my process steps, I relay three business recommendations regarding suggested genres, release dates, and directors.
 
 ### I couch my analysis in the following business context:
 
