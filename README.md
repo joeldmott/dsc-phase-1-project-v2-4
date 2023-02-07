@@ -48,6 +48,8 @@ While each of these genres average a positive ROI, the following three stand out
 
 Furthermore, Microsoft may be able to maximize ROI by recruiting one of the respective top ten ROI-earning directors listed next to each genre’s graph. 
 
+I wrote a blog post on this project, which can be found here: https://medium.com/@joel.mott8/let-the-data-guide-you-moving-from-the-big-picture-to-helpful-insights-in-film-revenue-f7d5ac72cb85
+
 ### Repository Structure:
 ```
 ├── zippedData
